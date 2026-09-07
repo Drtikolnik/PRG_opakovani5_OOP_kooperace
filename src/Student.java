@@ -59,6 +59,7 @@ public class Student {
         }
     }
 
+
     public void zlepsiPrumer(double oKolik){
         if ((prumer -= oKolik)<=1.0){
             prumer = 1.0;
